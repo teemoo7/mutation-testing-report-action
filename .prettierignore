@@ -1,0 +1,8 @@
+# Copy of .gitignore
+coverage
+node_modules
+dist
+.*
+!.gitignore
+!.github
+test-report.xml

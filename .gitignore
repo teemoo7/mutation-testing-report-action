@@ -1,0 +1,8 @@
+node_modules
+coverage
+.*
+!.gitignore
+!.github
+test-report.xml
+!.prettierignore
+!.prettierrc.json
